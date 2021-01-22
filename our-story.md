@@ -17,5 +17,6 @@ sections:
       *   dolor sit amet
     actions: []
     type: hero_section
+    background_image: images/promo.jpg
 layout: advanced
 ---
