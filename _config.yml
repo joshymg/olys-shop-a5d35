@@ -37,7 +37,7 @@ main_menu:
     url: /faq
   - title: Our story
     url: our_story
-    arrow: false
+    arrow: true
     type: action
 sass:
   style: nested
