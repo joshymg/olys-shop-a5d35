@@ -4,7 +4,7 @@ page_css_class: lorem-ipsum
 white_header: false
 sections:
   - section_id: lorem-ipsum
-    content: >-
+    content: >
       ## Lorem ipsum
 
 
@@ -12,9 +12,9 @@ sections:
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      - Lorem ipsum
+      *   Lorem ipsum
 
-      - dolor sit amet
+      *   dolor sit amet
     actions: []
     type: hero_section
 layout: advanced
