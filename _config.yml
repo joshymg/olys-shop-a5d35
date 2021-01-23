@@ -36,7 +36,7 @@ main_menu:
   - title: FAQ
     url: /faq
   - title: Our story
-    url: our_story
+    url: /our_story
     arrow: false
     type: action
 sass:
