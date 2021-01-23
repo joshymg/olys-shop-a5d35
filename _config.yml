@@ -11,7 +11,7 @@ hamburger_background_image: /images/leaf-light-grey.svg
 bg_image_primary: /images/header.jpg
 bg_image_secondary: /images/leaf-light-grey.svg
 bg_image_product: /images/leaf.svg
-snipcart_api_key: ''
+snipcart_api_key: 033a8441c8f2f0250db6b7111116b482dbdd8359dae54e895d212166d04b882b
 footer_text: Copyright 2020 Planty Inc. All rights reserved.
 palette: default
 palettes:
