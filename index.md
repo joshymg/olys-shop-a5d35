@@ -14,6 +14,7 @@ sections:
       - title: See all items
         url: /store
         arrow: true
+    background_image: images/header-bg.jpg
   - type: featured_products_section
     section_id: best_sellers_section
     title: Best sellers
